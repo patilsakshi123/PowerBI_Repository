@@ -20,4 +20,5 @@ SQL Server • Power BI • Python • Pandas • Scikit-learn • DAX • ETL �
 
 Below find the 
 
-https://github.com/patilsakshi123/PowerBI_Repository/blob/main/Customer%20Churn%20Dashboard/Dashboard%20Overview.png
+
+![Dashboard Overview](https://github.com/user-attachments/assets/7178156d-daf8-409b-9633-7e6a521c7220)
